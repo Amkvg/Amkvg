@@ -1,5 +1,5 @@
 ### Amoka Studio 👋
-色々やります
+Programming / Design / Photo
 
 ### Achievement
 * Minecraft ~~ねこのあサーバー~~運営 プラグイン管理(2021)

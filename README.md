@@ -10,4 +10,4 @@
 
 ### Contact
 Discord Amoka222#0539  
-[Twitter]: https://twitter.com/Amkvg
+[Twitter](https://twitter.com/Amkvg)

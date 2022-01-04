@@ -2,8 +2,8 @@
 色々やります
 
 ### Achievement
-* Minecraft ~~ねこのあサーバー~~運営 プラグイン管理(2021)
-* Discord Bot ~~@k0ishi~~ @あもあも 管理(2019～)
+* #Minecraft ~~ねこのあサーバー~~運営 プラグイン管理(2021)
+* #Discord Bot ~~@k0ishi~~ @あもあも 管理(2019～)
 * 
 ***
 

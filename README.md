@@ -3,7 +3,7 @@
 
 ### Achievement
 * Minecraft ~~ねこのあサーバー~~運営 プラグイン管理(2021)
-* Discord Bot ~~@k0ishi~~(開発終了) @あもあも 管理(2019～)
+* Discord Bot ~~@k0ishi~~ @あもあも 管理(2019～)
 * 
 ***
 
